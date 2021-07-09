@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @erick-chris
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/erick-silva-697767156/
+- 👀 I’m interested in data science and financial market
+- 🌱 I’m currently learning python for data science
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me: https://www.linkedin.com/in/erick-chris/
 
 <!---
 erick-chris/erick-chris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
